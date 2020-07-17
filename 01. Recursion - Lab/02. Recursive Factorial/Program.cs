@@ -1,7 +1,7 @@
-﻿using System;
-
-namespace _02._Recursive_Factorial
+﻿namespace _02._Recursive_Factorial
 {
+    using System;
+
     class Program
     {
         static long Factorial(int num)
