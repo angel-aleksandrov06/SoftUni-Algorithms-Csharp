@@ -1,7 +1,7 @@
-﻿using System;
-
-namespace _04._Generating_01_Vectors
+﻿namespace _04._Generating_01_Vectors
 {
+    using System;
+
     class Program
     {
         private static void Gen01(int index, int[] arr)
