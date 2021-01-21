@@ -3,11 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30804.86
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. Dijkstra's Algorithm", "01. Dijkstra's Algorithm\01. Dijkstra's Algorithm.csproj", "{39A80B88-9466-47E3-837D-50BBCDA5E407}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01. Dijkstra's Algorithm", "01. Dijkstra's Algorithm\01. Dijkstra's Algorithm.csproj", "{39A80B88-9466-47E3-837D-50BBCDA5E407}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. Kruskal's Algorithm", "02. Kruskal's Algorithm\02. Kruskal's Algorithm.csproj", "{9F91AF9E-7EFE-46EC-9448-F6E21AE53415}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02. Kruskal's Algorithm", "02. Kruskal's Algorithm\02. Kruskal's Algorithm.csproj", "{9F91AF9E-7EFE-46EC-9448-F6E21AE53415}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. Prim's Algorithm", "03. Prim's Algorithm\03. Prim's Algorithm.csproj", "{BBE67377-8821-4BB4-85FA-539FCE10AC31}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03. Prim's Algorithm", "03. Prim's Algorithm\03. Prim's Algorithm.csproj", "{BBE67377-8821-4BB4-85FA-539FCE10AC31}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
