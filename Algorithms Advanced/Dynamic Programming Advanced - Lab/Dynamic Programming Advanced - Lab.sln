@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. Rod Cutting", "01. Rod Cutting\01. Rod Cutting.csproj", "{445337BF-92F8-46FB-A05A-B1210FCAF941}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. 01 Knapsack", "02. 01 Knapsack\02. 01 Knapsack.csproj", "{B077793D-B3EB-483F-9C10-0228DDB3AFD0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{445337BF-92F8-46FB-A05A-B1210FCAF941}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{445337BF-92F8-46FB-A05A-B1210FCAF941}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{445337BF-92F8-46FB-A05A-B1210FCAF941}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{445337BF-92F8-46FB-A05A-B1210FCAF941}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B077793D-B3EB-483F-9C10-0228DDB3AFD0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B077793D-B3EB-483F-9C10-0228DDB3AFD0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B077793D-B3EB-483F-9C10-0228DDB3AFD0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B077793D-B3EB-483F-9C10-0228DDB3AFD0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {19151438-3DF0-4372-84FB-A65B91C460EC}
+	EndGlobalSection
+EndGlobal
